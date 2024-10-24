@@ -22,6 +22,7 @@ Here are some of the technologies I'm working with:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
+
 ## - Get in Touch 
 
 Feel free to connect with me through the link below:
@@ -29,6 +30,5 @@ Feel free to connect with me through the link below:
 <div>
   <a href="mailto:natanfbagatoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-</div>
 
----
+
