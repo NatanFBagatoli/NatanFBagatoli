@@ -4,7 +4,7 @@
   <h1>Hello there! </h1>
 </div>
 
-I'm a beginner in front-end development with skills in JavaScript, TypeScript, React, TailwindCSS, databases, Socket.io, MySQL, HTML, and CSS. My goal is to attend a university abroad to further my studies, and I am seeking professional opportunities to help finance this journey.
+I'm a Front-End developer with skills in JavaScript, TypeScript, React, TailwindCSS, databases, Socket.io, MySQL, HTML, and CSS. My goal is to attend a university abroad to further my studies, and I am seeking professional opportunities to help finance this journey.
 
 ## - GitHub Stats
 
