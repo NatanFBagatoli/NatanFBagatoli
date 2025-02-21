@@ -17,6 +17,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 *“The only limit to our realization of tomorrow is our doubts of today.” – Franklin D. Roosevelt*
 ## 🏆 - GitHub Stats
  ![Github stats](https://github-readme-stats.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NatanFBagatoli&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
  
 ## 📌  - Technologies 
