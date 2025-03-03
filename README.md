@@ -12,7 +12,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 
 🎉Today, at 21, I work as a **Freelance Web Developer**, building websites and creating digital experiences that connect people and solve real problems. Along the way, I discovered a passion for Machine Learning, a field that challenges me to think differently and constantly learn.<br>
 
-🎨 When I’m not coding, I enjoy diving into a good book, which helps me see the world from new perspectives. For me, every project is a chance to grow, and I’m always ready for the next challenge.
+🎨 When I’m not coding, I enjoy reading a good book, which helps me see the world from new perspectives. For me, every project is a chance to grow, and I’m always ready for the next challenge.
 
 *“The only limit to our realization of tomorrow is our doubts of today.” – Franklin D. Roosevelt*
 ## 🏆 - GitHub Stats
