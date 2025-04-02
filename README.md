@@ -25,7 +25,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 
 #### **Front End**
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,react,tailwind,vite,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nextjs)](https://skillicons.dev)
 
  #### **Back End**
  [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,java,ts,nodejs)](https://skillicons.dev)
