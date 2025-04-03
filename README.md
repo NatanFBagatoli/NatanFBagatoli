@@ -19,7 +19,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
 
-## 📌  - Technologies 
+## 🛠️ - TechStack 
 
 <p>Here are some of the technologies I'm working with:</p>
 
@@ -30,12 +30,17 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
  ## **Back End**
  [![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,spring,)](https://skillicons.dev)
  
-## **Tools**
+## **DevOps & Cloud** 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,postman,docker,express)](https://skillicons.dev)
 
 ## **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
+## 🚀 **Featured Projects**  
+- [**E-commerce Website**](link) → React, TypeScript, Tailwind, Vite.  
+- [**Portfolio Website**](link) → React, TypeScript, JavaScript, Node, Tailwind, Shadcn, Vite.
+- [**School Website**](link) → React, TypeScript, Tailwind, Vite.
+  
 ## 📫 - Get in Touch 
  <p>Feel free to connect with me through the links below: </p>
    <a href="mailto:natanfbagatoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
