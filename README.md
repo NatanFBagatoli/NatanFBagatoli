@@ -25,13 +25,13 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 
 ## **Front End**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,tailwind,vite,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs)](https://skillicons.dev)
 
  ## **Back End**
- [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,spring,)](https://skillicons.dev)
  
 ## **Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,postman,docker,express)](https://skillicons.dev)
 
 ## **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
