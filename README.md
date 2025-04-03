@@ -28,10 +28,10 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs)](https://skillicons.dev)
 
  ## **Back End**
- [![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,spring,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,nodejs,java,spring,express)](https://skillicons.dev)
  
 ## **DevOps & Cloud** 
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,postman,docker,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,postman,docker)](https://skillicons.dev)
 
 ## **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
