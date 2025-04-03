@@ -36,8 +36,8 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 #### **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
-## 📫 - Get in Touch 
-Feel free to connect with me through the links below:
+## 📫 - Get in Touch - Feel free to connect with me through the links below:
+
  [![My Skills](https://skillicons.dev/icons?i=gmail,instagram,linkedin)](https://skillicons.dev)
 
 <img src="image2.jpg" alt="Wallpaper leon" width="600"/>
