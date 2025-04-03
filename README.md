@@ -23,17 +23,17 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 
 <p>Here are some of the technologies I'm working with:</p>
 
-#### **Front End**
+## **Front End**
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,js,ts,tailwind,vite,nextjs)](https://skillicons.dev)
 
- #### **Back End**
+ ## **Back End**
  [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,nodejs)](https://skillicons.dev)
  
-#### **Tools**
+## **Tools**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,docker)](https://skillicons.dev)
 
-#### **Databases**
+## **Databases**
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 ## 📫 - Get in Touch - Feel free to connect with me through the links below:
