@@ -37,9 +37,9 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
 
 ## 🚀 **Featured Projects**  
-- [**E-commerce Website**]([link](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria)) → React, TypeScript, Tailwind, Vite.  
-- [**Portfolio Website**]([link](https://github.com/NatanFBagatoli/Website-Portfolio)) → React, TypeScript, JavaScript, Node, Tailwind, Shadcn, Vite.
-- [**School Website**]([link](https://github.com/NatanFBagatoli/Projeto-Website-Escolar)) → React, TypeScript, Tailwind, Vite.
+- [**E-commerce Website**]([link](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
+- [**Portfolio Website**]([link](https://github.com/NatanFBagatoli/Website-Portfolio) → React, TypeScript, JavaScript, Node, Tailwind, Shadcn, Vite.
+- [**School Website**]([link](https://github.com/NatanFBagatoli/Projeto-Website-Escolar) → React, TypeScript, Tailwind, Vite.
   
 ## 📫 - Get in Touch 
  <p>Feel free to connect with me through the links below: </p>
