@@ -40,6 +40,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 - [**E-commerce Website**](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
 - [**Portfolio Website**](https://github.com/NatanFBagatoli/Website-Portfolio) → React, TypeScript, JavaScript, Node, Tailwind, Shadcn, Vite.
 - [**School Website**](https://github.com/NatanFBagatoli/Projeto-Website-Escolar) → React, TypeScript, Tailwind, Vite.
+- [**Kashy Dashboard**](https://github.com/NatanFBagatoli/Kashy-Project) → React, TypeScript, Tailwind, Vite, Chart.js, Socket.IO, Node.js, MongoDB, JWT, Bcrypt.
   
 ## 📫 - Get in Touch 
  <p>Feel free to connect with me through the links below: </p>
