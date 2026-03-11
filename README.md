@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
 
 <div align="center">
-   <h1>Hello there! I'm Natan, a Brazilian Software Engineer</h1>
+   <h1>🥇 Hello there! I'm Natan, a Brazilian Software Engineer 🥇</h1>
 </div>
 
 ## 🎮 - About Me
