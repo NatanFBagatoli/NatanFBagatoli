@@ -67,11 +67,5 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 - [**E-commerce Website**](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
 - [**School Website**](https://github.com/NatanFBagatoli/Projeto-Website-Escolar) → React, TypeScript, Tailwind, Vite.
 - [**Kashy Dashboard**](https://github.com/NatanFBagatoli/Kashy-Project) → React, TypeScript, Tailwind, Vite, Chart.js, Socket.IO, Node.js, MongoDB, JWT, Bcrypt.
-## 📫 - Get in Touch 
- <p>Feel free to connect with me through the links below: </p>
-   <a href="mailto:natanfbagatoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-   <a href="https://www.instagram.com/_nayytan/"><img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/natan-bagatoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://wa.me/554791578819" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
 
 <img src="image2.jpg" alt="Wallpaper leon" width="600"/>
