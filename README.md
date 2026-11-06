@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
 
 <div align="center">
-   <h1>Hello there! I'm Natan, a Brazilian Software Engineer 🥇</h1>
+   <h1>🥇 Hello there! I'm Natan, a Brazilian Software Engineer 🥇</h1>
 </div>
 
  `Software/AI/Robotics Engineer`
@@ -15,11 +15,21 @@ Today, I build internal software and automation tools for an e-commerce company,
 When I’m not coding, I enjoy reading a good book, which helps me see the world from new perspectives. For me, every project is a chance to grow, and I’m always ready for the next challenge.
 
 *“The only limit to our realization of tomorrow is our doubts of today.” – Franklin D. Roosevelt*
-## 🏆 - GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&show_icons=true&theme=tokyonight)
+<h2>🏆 GitHub Stats</h2>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NatanFBagatoli&layout=compact&theme=tokyonight)
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&show_icons=true&theme=tokyonight"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NatanFBagatoli&layout=compact&theme=tokyonight"
+    height="170"
+    alt="Top Languages"
+  />
+</div>
 
 ## 🛠️ - TechStack 
 
@@ -66,7 +76,7 @@ When I’m not coding, I enjoy reading a good book, which helps me see the world
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
 </div>
 
-## 🚀 **Featured Projects**  
+## ⚙ **Featured Projects**  
 - [**Plêiades Library**](https://github.com/NatanFBagatoli/BibliotecaDePleiades) → HTML, CSS, JavaScript.
 - [**Portfolio Website**](https://github.com/NatanFBagatoli/Personal-Portfolio) → HTML, CSS, JavaScript.
 - [**E-commerce Website**](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
