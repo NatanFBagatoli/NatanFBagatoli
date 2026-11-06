@@ -53,9 +53,9 @@ When I’m not coding, I enjoy reading a good book, which helps me see the world
 <div>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python"></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express"></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="Csharp"></a>
   <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" alt="Lua"></a>
 </div>
@@ -81,6 +81,6 @@ When I’m not coding, I enjoy reading a good book, which helps me see the world
 - [**Portfolio Website**](https://github.com/NatanFBagatoli/Personal-Portfolio) → HTML, CSS, JavaScript.
 - [**E-commerce Website**](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
 - [**Auth System**](https://github.com/NatanFBagatoli/AuthSystem) → React, JavaScript, Tailwind, Vite.
-- [**Star:FallApp**](https://github.com/NatanFBagatoli/StarFallApp) → Flutter, Dart, C++.
+- [**Star:Fall App**](https://github.com/NatanFBagatoli/StarFallApp) → Flutter, Dart, C++.
 
 <img src="image2.jpg" alt="Wallpaper leon" width="600"/>
