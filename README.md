@@ -1,23 +1,25 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&animation=fadeIn&fontAlignY=45"/>
 
 <div align="center">
-   <h1>🥇 Hello there! I'm Natan, a Brazilian Software Engineer 🥇</h1>
+   <h1>Hello there! I'm Natan, a Brazilian Software Engineer 🥇</h1>
 </div>
 
-## 🎮 - About Me
+ `Software/AI/Robotics Engineer`
 
 Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious about how things work, especially when it comes to technology. 
 
-💡 That curiosity led me to pursue a degree in **Analysis and Systems Development** at SENAI/SC, where I learned to turn ideas into functional solutions.<br>
+That curiosity led me to pursue a degree in **Analysis and Systems Development** at SENAI/SC, where I learned to turn ideas into functional solutions.<br>
 
-🎉 Today, I build internal software and automation tools for an e-commerce company, developing pricing calculators and spreadsheet processors to streamline workflows, creating custom websites for my supervisors to support their sales efforts, and integrating AI agents to enhance efficiency.<br>
+Today, I build internal software and automation tools for an e-commerce company, developing pricing calculators and spreadsheet processors to streamline workflows, creating custom websites for my supervisors to support their sales efforts, and integrating AI agents to enhance efficiency.<br>
 
-🎨 When I’m not coding, I enjoy reading a good book, which helps me see the world from new perspectives. For me, every project is a chance to grow, and I’m always ready for the next challenge.
+When I’m not coding, I enjoy reading a good book, which helps me see the world from new perspectives. For me, every project is a chance to grow, and I’m always ready for the next challenge.
 
 *“The only limit to our realization of tomorrow is our doubts of today.” – Franklin D. Roosevelt*
 ## 🏆 - GitHub Stats
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NatanFBagatoli&include_all_commits=true&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=NatanFBagatoli&layout=compact&theme=tokyonight)
 
 ## 🛠️ - TechStack 
 
@@ -34,6 +36,7 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" alt="Vite"></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"></a>
 </div>
 
 ## **Back End**
@@ -43,6 +46,8 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java"></a>
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express"></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="Csharp"></a>
+  <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" alt="Lua"></a>
 </div>
  
 ## **DevOps & Cloud** 
@@ -62,10 +67,10 @@ Hi! My name is **Natan Bagatoli**. Since I was young, I’ve always been curious
 </div>
 
 ## 🚀 **Featured Projects**  
-- [**Plêiades Library**](https://github.com/NatanFBagatoli/BibliotecaDePleiades) → HTML, CSS, JavaScript, C#, Python.
+- [**Plêiades Library**](https://github.com/NatanFBagatoli/BibliotecaDePleiades) → HTML, CSS, JavaScript.
 - [**Portfolio Website**](https://github.com/NatanFBagatoli/Personal-Portfolio) → HTML, CSS, JavaScript.
 - [**E-commerce Website**](https://github.com/NatanFBagatoli/Website-Ecommerce-Pizzaria) → React, TypeScript, Tailwind, Vite.  
-- [**School Website**](https://github.com/NatanFBagatoli/Projeto-Website-Escolar) → React, TypeScript, Tailwind, Vite.
-- [**Kashy Dashboard**](https://github.com/NatanFBagatoli/Kashy-Project) → React, TypeScript, Tailwind, Vite, Chart.js, Socket.IO, Node.js, MongoDB, JWT, Bcrypt.
+- [**Auth System**](https://github.com/NatanFBagatoli/AuthSystem) → React, JavaScript, Tailwind, Vite.
+- [**Star:FallApp**](https://github.com/NatanFBagatoli/StarFallApp) → Flutter, Dart, C++.
 
 <img src="image2.jpg" alt="Wallpaper leon" width="600"/>
